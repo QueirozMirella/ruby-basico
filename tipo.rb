@@ -13,3 +13,15 @@
 #upcase deixa a string toda em maiusculo
 #o método strip remove os espaços em branco do começo e final da string
 #o método capitalize deixa a primeira letra da string em maiusculo
+# o método chars mostra cada caracter de uma string
+#o método split separa a string pelos espaços. se eu passar uma letra ou palavra como parametro, ele corta a string nos parametros
+
+#o symbol é uma string que é global. ela é compartilhada em toda aplicação ruby
+#o symbol é definido colocando : na frente
+#eu posso converter uma string pra symbol usando .to_sym
+
+#um array suporta mais de um tipo
+#para converter de uma string pra um array usando %w
+#o método push insere no fim do array
+#o método join concatena um array numa string. eu posso passar um parametro e a string fica separada pelo parametro passado
+
